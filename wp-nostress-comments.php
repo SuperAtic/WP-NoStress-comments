@@ -3,7 +3,8 @@
 Plugin Name: WP NoStress Comments
 Description: Replaces the default WordPress comments with the NOSTR comment form using the nocomment library.
 Version: 1.0
-Author: Your Name
+Author: VEINTIUNO
+Author URI: https://NoStress.VEINTIUNO.world 
 */
 
 // Ensure the script doesn't get called outside of WordPress.
