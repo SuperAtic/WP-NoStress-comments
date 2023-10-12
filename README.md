@@ -1,4 +1,6 @@
-# WP NoStress Comments
+![](https://imagedelivery.net/wyrwp3c-j0gDDUWgnE7lig/52d4ddbf-4de5-479a-e297-2210cb475f00/public)
+
+# WordPress NoStress Comments
 
 ### A simple, stressless, alternative and anonymous comment system for any WordPress site
 
