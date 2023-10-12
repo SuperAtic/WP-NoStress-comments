@@ -24,6 +24,10 @@ Once activated, the plugin will automatically replace the default WordPress comm
 
 To customize the appearance of the NOSTR comment form, you can edit the `style.css` file located in the `assets/css/` directory of the plugin.
 
+## Demo
+
+https://veintiuno.world/m/digitales/wordpress-nostress-comments/
+
 ## Support
 
 For any issues or feedback, please [create an issue on GitHub](https://github.com/your-github-username/wp-nostress/issues) or contact the plugin author.
