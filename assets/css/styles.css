@@ -1,6 +1,24 @@
-/* Custom styles for the NOSTR comment form can be added here. */
+/* Custom styles for the NOSTR comment form in VEINTIUNO.world. */
 
---nc-background: #003049;
+#wp-nostress-comments-form {
+    text-align: center;
+}
+
+code {
+    opacity: 50%;
+}
+
+.extensiones {
+    line-height: 1.2;
+    margin-top: 12px;
+}
+
+.brupton {
+    border-radius: 50px;
+    margin-left: -42px;
+}
+
+/* --nc-background: #003049;
 --nc-container-font-family: arial;
 --nc-container-font-size: 1.2em;
 --nc-comment-author-font-size: 1.2em;
@@ -18,3 +36,6 @@
 --nc-text-color-dark: #fcbf49;
 --nc-primary-color: #fcbf49;
 --nc-primary-contrast: #003049;
+
+*/
+

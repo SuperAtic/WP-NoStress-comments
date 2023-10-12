@@ -23,8 +23,8 @@ function wp_nostress_enqueue_scripts() {
     wp_enqueue_script('nocomment-js', 'https://nocomment.pages.dev/embed.js', array(), '1.0.0', true);
     
     // Enqueue custom CSS and JS for the plugin.
-    wp_enqueue_style('wp-nostress-css', plugin_dir_url(__FILE__) . 'assets/css/style.css', array(), '1.0.0');
-    wp_enqueue_script('wp-nostress-js', plugin_dir_url(__FILE__) . 'assets/js/script.js', array('nocomment-js'), '1.0.0', true);
+    wp_enqueue_style('wp-nostress-css', plugin_dir_url(__FILE__) . 'assets/css/styles.css', array(), '1.0.0');
+    wp_enqueue_script('wp-nostress-js', plugin_dir_url(__FILE__) . 'assets/js/scripts.js', array('nocomment-js'), '1.0.0', true);
 }
 add_action('wp_enqueue_scripts', 'wp_nostress_enqueue_scripts');
 
@@ -33,7 +33,7 @@ function wp_nostress_comment_form($file) {
     // Check if comments are open and if threaded comments are enabled.
     if(is_singular() && comments_open() && get_option('thread_comments')) {
         // The div where the NOSTR comment form will be initialized.
-        echo '<div id="wp-nostress-comments"></div>';
+        // echo '<div id="wp-nostress-comments"></div>';
         echo '<script>
             // Initialize the NOSTR comment form.
             NoComment.init({
