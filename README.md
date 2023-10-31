@@ -1,4 +1,4 @@
-![](https://imagedelivery.net/wyrwp3c-j0gDDUWgnE7lig/52d4ddbf-4de5-479a-e297-2210cb475f00/public)
+![](https://imagedelivery.net/wyrwp3c-j0gDDUWgnE7lig/dd610793-fd9c-4461-6e05-e074a4a41b00/public)
 
 # WordPress NoStress Comments
 
