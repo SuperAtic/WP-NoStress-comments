@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <input class="brupton" type="submit" value="Connectar">
     </form>
     <p><small><code>ₐₗₜₑᵣₙₐₜᵢᵥₐₘₑₙₜₑ</code></small></p>
-    <button onclick="window.open('https://hitony.com/nostrogen/', '_blank')" id="generate-new-key">Generar nueva llave <strong>NSEC</strong></button>
+    <button onclick="window.open('https://nostr.rocks/', '_blank')" id="generate-new-key">Generar nueva llaves <strong>NSEC</strong></button>
     <p><small><code>ₐₗₜₑᵣₙₐₜᵢᵥₐₘₑₙₜₑ</code></small></p>
     <button  id="connect-nos2x">Conectar con Extensión</button>
     <p class="extensiones"><small><code>Por ejemplo <a href="https://getalby.com/" target="_blank"><strong>🐝Alby</strong></a> o <br/>
